@@ -28,7 +28,6 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'oj_mimic_json', '~> 1.0', '>= 1.0.1'
   s.add_runtime_dependency 'ox', '~> 2.4', '>= 2.4.7'
   s.add_runtime_dependency 'json', '~> 2.0', '>= 2.0.2'
-  s.add_runtime_dependency 'rainbow', '~> 2.1.0'
   s.add_development_dependency 'bundler', '~> 1.13', '>= 1.13.7'
   s.add_development_dependency 'rake', '~> 0'
   s.add_development_dependency 'yard', '~> 0.9', '>= 0.9.11'
